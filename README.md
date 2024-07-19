@@ -3,7 +3,7 @@
 - 🌱 I’m currently searching for a job.
 - 💞️ I’m looking to collaborate as a Frontend Developer.
 - 📫 How to reach me: nandy178@gmail.com
-- ⚡ Fun fact: I`m very creative and I like to draw, make jewelry, sew and make home decor.
+- ⚡ Fun fact: I’m very creative and I like to draw, make jewelry, sew and make home decor.
 
 <!---
 Nandy262/Nandy262 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
