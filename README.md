@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nandy262
+- 👋 Hi, I’m @Nandy262!
 - 👀 I’m interested in HTML, CSS and JavaScript.
 - 🌱 I’m currently searching for a job.
 - 💞️ I’m looking to collaborate as a Frontend Developer.
